@@ -62,7 +62,7 @@ To run this program, run
 go run .
 ```
 
-## Mode
+## Modes
 
 - **Signup**: Enroll in classes with specified CRNs (Course Refence Numbers).
 - **Search**: Search for all the sections based on given term, section and subject.

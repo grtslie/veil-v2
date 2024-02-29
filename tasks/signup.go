@@ -186,7 +186,6 @@ func (t *Task) GetRegistrationStatus() error {
 	}
 
 	if hasFailure && hasRegistrationTime {
-		timeFailure = "02/28/2024 09:00 PM"
 		pattern := regexp.MustCompile(`\d{2}/\d{2}/\d{4} \d{2}:\d{2} [APM]{2}`)
 		matches := pattern.FindAllString(timeFailure, -1)
 

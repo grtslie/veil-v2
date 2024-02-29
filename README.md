@@ -5,8 +5,9 @@ Veil is an open-source program written in Golang designed to efficiently scrape,
 ## About Me
 
 I am a Junior at De Anza College. I am transferring in Fall 2024, so there's no point of keeping this code with me any longer.
-[Linkedin](https://www.linkedin.com/in/andrew-duong-3a9931259/)
 Hope people can build off this project, enjoy!
+
+Check out my [Linkedin](https://www.linkedin.com/in/andrew-duong-3a9931259/).
 
 ## Table of Contents
 
